@@ -4,5 +4,8 @@
 # compile
 /build
 
+#misc
+.DS_Store
+
 # pinata keys
 /src/pinataKeys.ts
